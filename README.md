@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and C**
 
-- 👨‍💻 All of my projects are available at [?tab=repositories](Github)
+- 👨‍💻 All of my projects are available at [Github](?tab=repositories)
 
 - 📫 How to reach me **ruben (at) florissen (dot) me**
 
