@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">IT Student at a Dutch school</h3>
 
-- 🔭 I’m currently working on **Several websites**
+- 🔭 I’m currently working on **Improving my C skills**
 
 - 🌱 I’m currently learning **Java and C**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [rubenflorissen](Github)
 
 - 📫 How to reach me **ruben (at) florissen (dot) me**
 
